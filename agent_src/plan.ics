@@ -1,0 +1,53 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:Category: Other
+DTEND:20260316T211000Z
+DTSTART:20260316T210000Z
+SUMMARY:Break - Stand up\, stretch\, and hydrate to recharge.
+UID:d14f8326-75da-4485-94e0-8d65c1a11c46@d14f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Work
+DTEND:20260316T215500Z
+DTSTART:20260316T211000Z
+SUMMARY:Study Langraph - Focus on Langraph\, using the remaining energy to complete this slightly less intens
+UID:94e5a892-657a-4ba6-b9df-621383960ae0@94e5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Exercise
+DTEND:20260316T190000Z
+DTSTART:20260316T180000Z
+SUMMARY:Exercise - Engage in a moderate-intensity workout to boost energy and focus.
+UID:1422df32-c89e-41d5-847a-9e07bf26b62c@1422.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Leisure
+DTEND:20260316T225000Z
+DTSTART:20260316T215500Z
+SUMMARY:Relaxation and Unwind - Engage in relaxing activities to unwind and prepare for the next day.
+UID:6ad6f0b6-c67e-4ab0-b843-1ff557cff68e@6ad6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Work
+DTEND:20260316T193000Z
+DTSTART:20260316T190000Z
+SUMMARY:Shower and Refresh - Take a refreshing shower and get dressed in comfortable clothes for studying.
+UID:bac56027-e071-4261-a180-3b42d45348a8@bac5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Exercise
+DTEND:20260316T180000Z
+DTSTART:20260316T173000Z
+SUMMARY:Short Break - Step away from your workspace\, stretch\, or do a quick mindfulness exercise to clear yo
+UID:4e81ffd8-b7ac-46c4-ac11-ada69727e16d@4e81.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Category: Work
+DTEND:20260316T210000Z
+DTSTART:20260316T193000Z
+SUMMARY:Study LangChain - Use the "Eat the Frog" technique to tackle the most challenging aspects of LangCha
+UID:02a1c020-095e-48e9-be94-a51c9bb363d8@02a1.org
+END:VEVENT
+END:VCALENDAR

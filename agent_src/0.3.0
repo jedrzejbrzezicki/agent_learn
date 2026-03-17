@@ -1,0 +1,35 @@
+Requirement already satisfied: langgraph in C:\Users\PLBrzeziJe\AppData\Local\miniconda3\envs\agent\Lib\site-packages (0.2.45)
+Requirement already satisfied: langchain-core in C:\Users\PLBrzeziJe\AppData\Local\miniconda3\envs\agent\Lib\site-packages (0.3.63)
+Collecting langgraph-checkpoint<3.0.0,>=2.0.0 (from langgraph)
+  Using cached langgraph_checkpoint-2.1.2-py3-none-any.whl.metadata (4.2 kB)
+Requirement already satisfied: langgraph-sdk<0.2.0,>=0.1.32 in C:\Users\PLBrzeziJe\AppData\Local\miniconda3\envs\agent\Lib\site-packages (from langgraph) (0.1.74)
+Requirement already satisfied: langsmith<0.4,>=0.1.126 in C:\Users\PLBrzeziJe\AppData\Local\miniconda3\envs\agent\Lib\site-packages (from langchain-core) (0.1.131)
+Requirement already satisfied: tenacity!=8.4.0,<10.0.0,>=8.1.0 in C:\Users\PLBrzeziJe\AppData\Local\miniconda3\envs\agent\Lib\site-packages (from langchain-core) (9.1.4)
+Requirement already satisfied: jsonpatch<2.0,>=1.33 in C:\Users\PLBrzeziJe\AppData\Local\miniconda3\envs\agent\Lib\site-packages (from langchain-core) (1.33)
+Requirement already satisfied: PyYAML>=5.3 in C:\Users\PLBrzeziJe\AppData\Local\miniconda3\envs\agent\Lib\site-packages (from langchain-core) (6.0.3)
+Requirement already satisfied: packaging<25,>=23.2 in C:\Users\PLBrzeziJe\AppData\Local\miniconda3\envs\agent\Lib\site-packages (from langchain-core) (24.2)
+Requirement already satisfied: typing-extensions>=4.7 in C:\Users\PLBrzeziJe\AppData\Local\miniconda3\envs\agent\Lib\site-packages (from langchain-core) (4.15.0)
+Requirement already satisfied: pydantic>=2.7.4 in C:\Users\PLBrzeziJe\AppData\Local\miniconda3\envs\agent\Lib\site-packages (from langchain-core) (2.12.5)
+Requirement already satisfied: jsonpointer>=1.9 in C:\Users\PLBrzeziJe\AppData\Local\miniconda3\envs\agent\Lib\site-packages (from jsonpatch<2.0,>=1.33->langchain-core) (3.0.0)
+Requirement already satisfied: ormsgpack>=1.10.0 in C:\Users\PLBrzeziJe\AppData\Local\miniconda3\envs\agent\Lib\site-packages (from langgraph-checkpoint<3.0.0,>=2.0.0->langgraph) (1.12.2)
+Requirement already satisfied: httpx>=0.25.2 in C:\Users\PLBrzeziJe\AppData\Local\miniconda3\envs\agent\Lib\site-packages (from langgraph-sdk<0.2.0,>=0.1.32->langgraph) (0.28.1)
+Requirement already satisfied: orjson>=3.10.1 in C:\Users\PLBrzeziJe\AppData\Local\miniconda3\envs\agent\Lib\site-packages (from langgraph-sdk<0.2.0,>=0.1.32->langgraph) (3.11.7)
+Requirement already satisfied: requests<3,>=2 in C:\Users\PLBrzeziJe\AppData\Local\miniconda3\envs\agent\Lib\site-packages (from langsmith<0.4,>=0.1.126->langchain-core) (2.32.5)
+Requirement already satisfied: requests-toolbelt<2.0.0,>=1.0.0 in C:\Users\PLBrzeziJe\AppData\Local\miniconda3\envs\agent\Lib\site-packages (from langsmith<0.4,>=0.1.126->langchain-core) (1.0.0)
+Requirement already satisfied: anyio in C:\Users\PLBrzeziJe\AppData\Local\miniconda3\envs\agent\Lib\site-packages (from httpx>=0.25.2->langgraph-sdk<0.2.0,>=0.1.32->langgraph) (4.12.1)
+Requirement already satisfied: certifi in C:\Users\PLBrzeziJe\AppData\Local\miniconda3\envs\agent\Lib\site-packages (from httpx>=0.25.2->langgraph-sdk<0.2.0,>=0.1.32->langgraph) (2026.1.4)
+Requirement already satisfied: httpcore==1.* in C:\Users\PLBrzeziJe\AppData\Local\miniconda3\envs\agent\Lib\site-packages (from httpx>=0.25.2->langgraph-sdk<0.2.0,>=0.1.32->langgraph) (1.0.9)
+Requirement already satisfied: idna in C:\Users\PLBrzeziJe\AppData\Local\miniconda3\envs\agent\Lib\site-packages (from httpx>=0.25.2->langgraph-sdk<0.2.0,>=0.1.32->langgraph) (3.11)
+Requirement already satisfied: h11>=0.16 in C:\Users\PLBrzeziJe\AppData\Local\miniconda3\envs\agent\Lib\site-packages (from httpcore==1.*->httpx>=0.25.2->langgraph-sdk<0.2.0,>=0.1.32->langgraph) (0.16.0)
+Requirement already satisfied: annotated-types>=0.6.0 in C:\Users\PLBrzeziJe\AppData\Local\miniconda3\envs\agent\Lib\site-packages (from pydantic>=2.7.4->langchain-core) (0.7.0)
+Requirement already satisfied: pydantic-core==2.41.5 in C:\Users\PLBrzeziJe\AppData\Local\miniconda3\envs\agent\Lib\site-packages (from pydantic>=2.7.4->langchain-core) (2.41.5)
+Requirement already satisfied: typing-inspection>=0.4.2 in C:\Users\PLBrzeziJe\AppData\Local\miniconda3\envs\agent\Lib\site-packages (from pydantic>=2.7.4->langchain-core) (0.4.2)
+Requirement already satisfied: charset_normalizer<4,>=2 in C:\Users\PLBrzeziJe\AppData\Local\miniconda3\envs\agent\Lib\site-packages (from requests<3,>=2->langsmith<0.4,>=0.1.126->langchain-core) (3.4.4)
+Requirement already satisfied: urllib3<3,>=1.21.1 in C:\Users\PLBrzeziJe\AppData\Local\miniconda3\envs\agent\Lib\site-packages (from requests<3,>=2->langsmith<0.4,>=0.1.126->langchain-core) (2.6.3)
+Using cached langgraph_checkpoint-2.1.2-py3-none-any.whl (45 kB)
+Installing collected packages: langgraph-checkpoint
+  Attempting uninstall: langgraph-checkpoint
+    Found existing installation: langgraph-checkpoint 4.0.1
+    Uninstalling langgraph-checkpoint-4.0.1:
+      Successfully uninstalled langgraph-checkpoint-4.0.1
+Successfully installed langgraph-checkpoint-2.1.2

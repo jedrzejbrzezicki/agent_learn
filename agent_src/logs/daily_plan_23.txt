@@ -1,0 +1,25 @@
+Daily Plan Overview:
+This plan balances health and productivity by incorporating exercise, breaks, and focused study sessions, ensuring that jedrzej can effectively learn LangChain and Langraph while maintaining energy and well-being.
+
+Schedule:
+
+17:30 - 18:00
+Short Break - Step away from your workspace, stretch, or do a quick mindfulness exercise to clear your mind.
+
+18:00 - 19:00
+Exercise - Engage in a moderate-intensity workout to boost energy and focus.
+
+19:00 - 19:30
+Shower and Refresh - Take a refreshing shower and get dressed in comfortable clothes for studying.
+
+19:30 - 21:00
+Study LangChain - Use the "Eat the Frog" technique to tackle the most challenging aspects of LangChain first, working in 25-minute intervals with 5-minute breaks.
+
+21:00 - 21:10
+Break - Stand up, stretch, and hydrate to recharge.
+
+21:10 - 21:55
+Study Langraph - Focus on Langraph, using the remaining energy to complete this slightly less intensive task, working in 25-minute intervals with 5-minute breaks.
+
+21:55 - 22:50
+Relaxation and Unwind - Engage in relaxing activities to unwind and prepare for the next day.

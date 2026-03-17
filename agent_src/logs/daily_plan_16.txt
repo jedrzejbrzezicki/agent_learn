@@ -1,0 +1,8 @@
+18:00 - Warm-up and Review Notes (30min)
+18:30 - Study LangChain (90min)
+19:00 - Break (10min)
+19:10 - Study LangChain (80min)
+20:30 - Study Break (30min)
+21:00 - Introduce to Langraph (90min)
+22:30 - Break (10min)
+22:40 - Wrap-up and Planning (20min)

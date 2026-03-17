@@ -1,0 +1,6 @@
+- 18:00 - Review work and relax (30min)
+- 18:30 - Study Langraph (90min)
+- 19:20 - Break and snack (20min)
+- 19:40 - Study LangChain (90min)
+- 21:10 - Break (10min)
+- 21:20 - Review notes and plan for tomorrow (20min)
